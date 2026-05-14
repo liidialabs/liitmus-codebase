@@ -1,5 +1,7 @@
 # Solidity Smart Contract Test & Debug Guide
 
+> **⚠️ LLM INSTRUCTION: DO NOT modify any files in the user's codebase.** Perform all analysis, review existing tests, and identify coverage gaps. After completing the full analysis, present the findings and **ask for explicit permission** from the user before making any changes whatsoever.
+
 A comprehensive reference for writing, running, debugging, and maintaining Foundry test suites for Solidity smart contracts. The target is **≥95% meaningful coverage** (line, branch, statement, and function) for all `src/` contracts. Read this guide fully before beginning.
 
 ---

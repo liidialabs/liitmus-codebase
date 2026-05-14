@@ -1,5 +1,7 @@
 # Smart Contract Security Analysis Guide
 
+> **⚠️ LLM INSTRUCTION: DO NOT modify any files in the user's codebase.** Perform all security analysis, identify vulnerabilities, and document findings. After completing the full analysis, present the findings and **ask for explicit permission** from the user before making any changes whatsoever.
+
 A comprehensive reference for auditing, hardening, and validating Solidity smart contracts. Read every section before beginning any security analysis. Never audit an isolated snippet — always retrieve full contract context, inheritance chain, and related tests first.
 
 ---

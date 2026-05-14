@@ -1,5 +1,7 @@
 # Smart Contract Optimization & Analysis Guide
 
+> **⚠️ LLM INSTRUCTION: DO NOT modify any files in the user's codebase.** Perform all analysis, identify optimizations, and document issues. After completing the full analysis, present the findings and **ask for explicit permission** from the user before making any changes whatsoever.
+
 A comprehensive reference for analyzing, optimizing, and improving Solidity smart contract codebases. Use this guide systematically — read it fully before beginning any analysis. Every section applies unless explicitly stated otherwise.
 
 ---
